@@ -1,3 +1,8 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<meta charset="UTF-8">
+
 ## Welcome to Adventure Cove
 
 Welcome to Adventure Cove!
